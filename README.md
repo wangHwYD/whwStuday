@@ -1,6 +1,6 @@
 # 自己的一些收藏
 
-[15 个 Android 通用流行框架大全](http://www.oschina.net/news/73836/15-android-general-popular-frameworks)
+[15 个 Android 通用流行框架大全](http://www.oschina.net/news/73836/15-android-general-popular-frameworks)\<br>  
 1. 缓存
 
 DiskLruCache    Java实现基于LRU的磁盘缓存
